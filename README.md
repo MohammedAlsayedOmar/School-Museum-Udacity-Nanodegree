@@ -1,6 +1,6 @@
 # School Museum
 School Museum was created as a part of Udacity’s VR nanodegree program. We were required to research about creating VR experience for things other than games and to apply the researched concept. My chosen concept was learning new things in a school environment. Here is a brief review of the experience.
-![Gameplay Screenshot](/Screenshots/7.png)
+![Gameplay Screenshot](./Screenshots/7.png)
 Time Taken: 10 days
 
 
