@@ -24,7 +24,7 @@ Time Taken: 10 days
 not yet available (check back soon)
 
 ### More Information
-You can read about the process of creating this project here: https://medium.com/@MohammedAlsayed/*NOTYET*
+You can read about the process of creating this project here: https://medium.com/@MohammedAlsayed/school-museum-udacity-night-at-the-museum-5th-project-2b42a2673782
 
 More information about the course at: https://classroom.udacity.com/nanodegrees/nd017
 
