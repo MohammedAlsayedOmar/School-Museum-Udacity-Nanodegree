@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 01eda2a0ee1a15847a48ce1c089e1645
+timeCreated: 1502534711
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CHAWP
+  fontNames:
+  - CHAWP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
